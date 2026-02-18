@@ -1,6 +1,8 @@
 import { UserService } from '#services/user_service'
+import { createUserValidator, updateUserValidator } from '#validators/user'
 import { inject } from '@adonisjs/core'
 import type { HttpContext } from '@adonisjs/core/http'
+
 @inject()
 export default class UsersController {
   constructor(
@@ -8,7 +10,7 @@ export default class UsersController {
   ) {}
 
   public async store({ request, response }: HttpContext) {
-    const payload = request.only(['userName', 'email', 'password'])
+    const payload = await request.validateUsing(createUserValidator)
 
     try {
       const createdUser = await this.userService.createUser(payload)
@@ -55,7 +57,7 @@ export default class UsersController {
 
   public async update({ request, response }: HttpContext) {
     const userId = request.param('id')
-    const payload = request.all()
+    const payload = await request.validateUsing(updateUserValidator)
 
     try {
       const updatedUser = await this.userService.updateUser(payload, userId)
