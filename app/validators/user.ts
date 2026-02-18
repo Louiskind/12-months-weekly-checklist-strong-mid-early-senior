@@ -1,4 +1,4 @@
-import vine from '@vinejs/vine'
+import vine, { SimpleMessagesProvider } from '@vinejs/vine'
  
 export const createUserValidator = vine.compile(
   vine.object({
@@ -15,3 +15,21 @@ export const updateUserValidator = vine.compile(
     password: vine.string().optional(),
   })
 )
+
+const messages = {
+  // Applicable for all fields
+  'required': 'The {{ field }} field is required',
+  'string': 'The value of {{ field }} field must be a string',
+  'email': 'The value is not a valid email address',
+
+  // Error message for the username field
+  'username.required': 'Please choose a username for your account',
+}
+
+const fields = {
+  username: 'user name',
+  email: 'email',
+  password: 'password'
+}
+
+vine.messagesProvider = new SimpleMessagesProvider(messages, fields)
