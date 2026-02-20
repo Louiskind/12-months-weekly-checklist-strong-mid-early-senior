@@ -7,6 +7,9 @@
 |
 */
 import router from '@adonisjs/core/services/router'
+import AutoSwagger from 'adonis-autoswagger'
+import swagger from '#config/swagger'
+
 const UsersController = () => import('#controllers/users_controller')
 const RegisterNewsletterSubscriptionController = () => import('#controllers/register_newsletter_subscriptions_controller')
 const PostsController = () => import('#controllers/posts_controller')
@@ -45,3 +48,13 @@ router.group(() => {
 router.shallowResource('posts.comments', CommentsController) // Shallow routes, cuts off the parents prefixes
 
 router.resource('group-attributes', GroupAttributesController).as('attributes') // Renaming resourcefull routes
+
+// Return the openAPI file in .yaml format
+router.get('swagger', async () => {
+  return AutoSwagger.default.docs(router.toJSON(), swagger)
+})
+
+// Renders the Swagger UI
+router.get('docs', async () => {
+  return AutoSwagger.default.ui('swagger')
+})

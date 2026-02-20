@@ -17,6 +17,13 @@ const loggerConfig = defineConfig({
       transport: {
         targets: targets()
           .pushIf(!app.inProduction, targets.pretty())
+          // ALWAYS log to a physical file (Dev and Production)
+          .push(
+            targets.file({
+              destination: './logs/app.log',
+              mkdir: true, // Automatically creates the folder if it doesn't exist
+            })
+          )
           .pushIf(app.inProduction, targets.file({ destination: 1 }))
           .toArray(),
       },

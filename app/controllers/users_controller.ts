@@ -9,6 +9,12 @@ export default class UsersController {
     protected userService: UserService
   ) {}
 
+  /**
+   * @store
+   * @description Create user
+   * @requestBody {"username":"Lorem", "email":"lorem@gmail.com", "password":"123"}
+   *  
+   */
   public async store({ request, response }: HttpContext) {
     const payload = await request.validateUsing(createUserValidator)
 

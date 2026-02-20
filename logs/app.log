@@ -1,0 +1,5 @@
+{"level":30,"time":1771627126767,"pid":5764,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1771627169254,"pid":14680,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1771627298900,"pid":13708,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1771627308455,"pid":13708,"hostname":"DESKTOP-FKJ7UGT","request_id":"b4j6g5upkz92z4gizlizhds8","msg":"GET: /docs"}
+{"level":30,"time":1771627308569,"pid":13708,"hostname":"DESKTOP-FKJ7UGT","request_id":"ejeifbicbgiw4cbz4t5cfzw9","msg":"GET: /swagger"}

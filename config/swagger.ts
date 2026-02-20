@@ -7,7 +7,7 @@ import env from '#start/env'
  */
 export default {
   path: path.dirname(url.fileURLToPath(import.meta.url)) + '/../',
-  tagIndex: 2,
+  tagIndex: 1,
   info: {
     title: env.get('APP_NAME'),
     version: '1.0.0',
@@ -79,5 +79,5 @@ export default {
   authMiddlewares: ['auth'],
   defaultSecurityScheme: 'bearerAuth',
   persistAuthorization: true,
-  showFullPath: false
+  showFullPath: false,
 }
