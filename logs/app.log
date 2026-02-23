@@ -3,3 +3,72 @@
 {"level":30,"time":1771627298900,"pid":13708,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
 {"level":30,"time":1771627308455,"pid":13708,"hostname":"DESKTOP-FKJ7UGT","request_id":"b4j6g5upkz92z4gizlizhds8","msg":"GET: /docs"}
 {"level":30,"time":1771627308569,"pid":13708,"hostname":"DESKTOP-FKJ7UGT","request_id":"ejeifbicbgiw4cbz4t5cfzw9","msg":"GET: /swagger"}
+{"level":30,"time":1771886636736,"pid":23268,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1771886640490,"pid":23268,"hostname":"DESKTOP-FKJ7UGT","request_id":"kiajyg3bwjh2b3i8jkrabbp4","msg":"GET: /"}
+{"level":30,"time":1771886662464,"pid":23268,"hostname":"DESKTOP-FKJ7UGT","request_id":"fq6oiubox5it9spcg96t952v","msg":"GET: /docs"}
+{"level":30,"time":1771886662644,"pid":23268,"hostname":"DESKTOP-FKJ7UGT","request_id":"baohoioyys7upcddjksytwd7","msg":"GET: /swagger"}
+{"level":30,"time":1771886767879,"pid":9252,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1771886799963,"pid":10616,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1771886846265,"pid":26636,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1771886855868,"pid":27848,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1771886863849,"pid":15224,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1771886880596,"pid":11916,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1771886887085,"pid":23304,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1771886899510,"pid":572,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1771886905440,"pid":13940,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1771886911167,"pid":20276,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1771886921205,"pid":26392,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1771886933156,"pid":13840,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1771886951332,"pid":24268,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1771886969367,"pid":21072,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1771886974868,"pid":2440,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1771886982958,"pid":15288,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1771886986668,"pid":27076,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1771886995385,"pid":20788,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1771887008561,"pid":26296,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1771887027158,"pid":26060,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1771887034924,"pid":23292,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1771887042792,"pid":20128,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1771887046678,"pid":23508,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1771887068421,"pid":4684,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1771887077117,"pid":8680,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1771887085359,"pid":6556,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1771887097637,"pid":9312,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1771887107377,"pid":28636,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1771887112392,"pid":17780,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1771887136530,"pid":7408,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1771887154059,"pid":18920,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1771887161098,"pid":27824,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1771887172659,"pid":11892,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1771887192938,"pid":19972,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1771887200847,"pid":20308,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1771887271180,"pid":3908,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1771887291391,"pid":22228,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1771887300718,"pid":9236,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1771887308407,"pid":25432,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1771887313698,"pid":28472,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1771887328886,"pid":25420,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1771887333831,"pid":10120,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1771887339674,"pid":18716,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1771887353723,"pid":25152,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1771887357543,"pid":24464,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1771887363904,"pid":2868,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1771887385294,"pid":2868,"hostname":"DESKTOP-FKJ7UGT","request_id":"h6nlypd99qpmv2owo2g3gbln","msg":"POST: /posts"}
+{"level":30,"time":1771887443663,"pid":2868,"hostname":"DESKTOP-FKJ7UGT","request_id":"p7de8xrpzfvbk3oliwg25x3q","msg":"GET: /posts"}
+{"level":50,"time":1771887443995,"pid":2868,"hostname":"DESKTOP-FKJ7UGT","request_id":"p7de8xrpzfvbk3oliwg25x3q","err":{"type":"","message":"Relation \"Post.comments\" expects \"postId\" to exist on \"Comment\" model, but is missing. Did you forget to define the column?","stack":"Exception: Relation \"Post.comments\" expects \"postId\" to exist on \"Comment\" model, but is missing. Did you forget to define the column?\n    at file:///C:/Users/LOUIS%20KIND/code/learn-adonisjs/12-months-plan/node_modules/@adonisjs/lucid/build/src/orm/relations/keys_extractor.js:32:23\n    at Array.reduce (<anonymous>)\n    at KeysExtractor.extract (file:///C:/Users/LOUIS%20KIND/code/learn-adonisjs/12-months-plan/node_modules/@adonisjs/lucid/build/src/orm/relations/keys_extractor.js:28:39)\n    at HasMany.boot (file:///C:/Users/LOUIS%20KIND/code/learn-adonisjs/12-months-plan/node_modules/@adonisjs/lucid/build/src/orm/relations/has_many/index.js:86:12)\n    at Preloader.load (file:///C:/Users/LOUIS%20KIND/code/learn-adonisjs/12-months-plan/node_modules/@adonisjs/lucid/build/src/orm/preloader/index.js:84:18)\n    at ModelQueryBuilder.preload (file:///C:/Users/LOUIS%20KIND/code/learn-adonisjs/12-months-plan/node_modules/@adonisjs/lucid/build/src/orm/query_builder/index.js:517:24)\n    at PostsController.index (C:\\Users\\LOUIS KIND\\code\\learn-adonisjs\\12-months-plan\\app\\controllers\\posts_controller.ts:10:38)\n    at ContainerResolver.call (file:///C:/Users/LOUIS%20KIND/code/learn-adonisjs/12-months-plan/node_modules/@adonisjs/fold/build/chunk-NNIB6TMY.js:410:25)","name":"Exception","status":500,"code":"E_MISSING_MODEL_ATTRIBUTE"},"x-request-id":"p7de8xrpzfvbk3oliwg25x3q","msg":"Relation \"Post.comments\" expects \"postId\" to exist on \"Comment\" model, but is missing. Did you forget to define the column?"}
+{"level":30,"time":1771887729391,"pid":21576,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1771887744686,"pid":8308,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1771887749084,"pid":19068,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1771887754466,"pid":26904,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1771887769374,"pid":23592,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1771887785076,"pid":27316,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1771887837352,"pid":27316,"hostname":"DESKTOP-FKJ7UGT","request_id":"thx1qwyrfr2x893e3ofv7c2i","msg":"GET: /posts"}
+{"level":50,"time":1771887837572,"pid":27316,"hostname":"DESKTOP-FKJ7UGT","request_id":"thx1qwyrfr2x893e3ofv7c2i","err":{"type":"","message":"Relation \"Post.comments\" expects \"postId\" to exist on \"Comment\" model, but is missing. Did you forget to define the column?","stack":"Exception: Relation \"Post.comments\" expects \"postId\" to exist on \"Comment\" model, but is missing. Did you forget to define the column?\n    at file:///C:/Users/LOUIS%20KIND/code/learn-adonisjs/12-months-plan/node_modules/@adonisjs/lucid/build/src/orm/relations/keys_extractor.js:32:23\n    at Array.reduce (<anonymous>)\n    at KeysExtractor.extract (file:///C:/Users/LOUIS%20KIND/code/learn-adonisjs/12-months-plan/node_modules/@adonisjs/lucid/build/src/orm/relations/keys_extractor.js:28:39)\n    at HasMany.boot (file:///C:/Users/LOUIS%20KIND/code/learn-adonisjs/12-months-plan/node_modules/@adonisjs/lucid/build/src/orm/relations/has_many/index.js:86:12)\n    at Preloader.load (file:///C:/Users/LOUIS%20KIND/code/learn-adonisjs/12-months-plan/node_modules/@adonisjs/lucid/build/src/orm/preloader/index.js:84:18)\n    at ModelQueryBuilder.preload (file:///C:/Users/LOUIS%20KIND/code/learn-adonisjs/12-months-plan/node_modules/@adonisjs/lucid/build/src/orm/query_builder/index.js:517:24)\n    at PostsController.index (C:\\Users\\LOUIS KIND\\code\\learn-adonisjs\\12-months-plan\\app\\controllers\\posts_controller.ts:10:38)\n    at ContainerResolver.call (file:///C:/Users/LOUIS%20KIND/code/learn-adonisjs/12-months-plan/node_modules/@adonisjs/fold/build/chunk-NNIB6TMY.js:410:25)","name":"Exception","status":500,"code":"E_MISSING_MODEL_ATTRIBUTE"},"x-request-id":"thx1qwyrfr2x893e3ofv7c2i","msg":"Relation \"Post.comments\" expects \"postId\" to exist on \"Comment\" model, but is missing. Did you forget to define the column?"}
+{"level":30,"time":1771887858249,"pid":20884,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1771887870728,"pid":6504,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1771887889535,"pid":23452,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1771888056373,"pid":7632,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1771888057320,"pid":7632,"hostname":"DESKTOP-FKJ7UGT","request_id":"mts7atkzoui74391huve4nv2","msg":"GET: /posts"}
+{"level":50,"time":1771888057816,"pid":7632,"hostname":"DESKTOP-FKJ7UGT","request_id":"mts7atkzoui74391huve4nv2","err":{"type":"DatabaseError","message":"select * from \"posts\" - relation \"posts\" does not exist","stack":"error: select * from \"posts\" - relation \"posts\" does not exist\n    at parseErrorMessage (C:\\Users\\LOUIS KIND\\code\\learn-adonisjs\\12-months-plan\\node_modules\\pg-protocol\\src\\parser.ts:394:9)\n    at Parser.handlePacket (C:\\Users\\LOUIS KIND\\code\\learn-adonisjs\\12-months-plan\\node_modules\\pg-protocol\\src\\parser.ts:212:19)\n    at Parser.parse (C:\\Users\\LOUIS KIND\\code\\learn-adonisjs\\12-months-plan\\node_modules\\pg-protocol\\src\\parser.ts:105:30)\n    at Socket.<anonymous> (C:\\Users\\LOUIS KIND\\code\\learn-adonisjs\\12-months-plan\\node_modules\\pg-protocol\\src\\index.ts:7:48)\n    at Socket.emit (node:events:519:28)\n    at addChunk (node:internal/streams/readable:559:12)\n    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)\n    at Readable.push (node:internal/streams/readable:390:5)\n    at TCP.onStreamRead (node:internal/stream_base_commons:191:23)","length":104,"name":"error","severity":"ERROR","code":"42P01","position":"15","file":"parse_relation.c","line":"1469","routine":"parserOpenTable","status":500},"x-request-id":"mts7atkzoui74391huve4nv2","msg":"select * from \"posts\" - relation \"posts\" does not exist"}
+{"level":30,"time":1771888086466,"pid":22220,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1771888107126,"pid":22220,"hostname":"DESKTOP-FKJ7UGT","request_id":"i7lth8tpiz5jk1klstcxokl7","msg":"GET: /posts"}

@@ -1,11 +1,16 @@
 // This controller is created with --resource flag
+import Post from '#models/post'
 import type { HttpContext } from '@adonisjs/core/http'
 
 export default class PostsController {
   /**
    * Display a list of resource
    */
-  async index({}: HttpContext) {}
+  async index({ response }: HttpContext) {
+    const posts = await Post.query().preload('comments')
+
+    return response.ok(posts)
+  }
 
   /**
    * Display form to create a new record
