@@ -1,38 +1,76 @@
+import Comment from '#models/comment'
+import { createCommentValidator, updateCommentValidator } from '#validators/comment'
 import type { HttpContext } from '@adonisjs/core/http'
 
 export default class CommentsController {
   /**
-   * Display a list of resource
+   * @index
+   * @summary Display a list of resource
    */
-  async index({}: HttpContext) {}
+  async index({}: HttpContext) {
+    const comments = await Comment.query().preload('post')
+
+    return comments
+  }
 
   /**
-   * Display form to create a new record
+   * @store
+   * @summary Create a new record
+   * @requestBody {"content": "Comment content", "postId": 1}
+   * @responseBody 201 - Created comment
    */
-  async create({}: HttpContext) {}
+  async store({ request }: HttpContext) {
+    const payload = await request.validateUsing(createCommentValidator)
+
+    const comment = await Comment.create(payload)
+
+    return comment
+  }
 
   /**
-   * Handle form submission for the create action
+   * @show
+   * @summary Show individual record
+   * @paramPath commentId @type(string) @required
+   * @responseBody 200 - Array of comment
    */
-  async store({ request }: HttpContext) {}
+  async show({ params }: HttpContext) {
+    const commentId = params.id
+
+    const comment = await Comment.query().where('id', commentId).preload('post')
+
+    return comment
+  }
 
   /**
-   * Show individual record
+   * @update
+   * @summary Edit individual record
+   * @paramPath commentId @type(string) @required
+   * @requestBody {"content": "Comment content"}
+   * @responseBody 200 - Updated comment
    */
-  async show({ params }: HttpContext) {}
+  async update({ params, request }: HttpContext) {
+    const commentId = params.id
+    const payload = await request.validateUsing(updateCommentValidator)
+
+    const comment = await Comment.findOrFail(commentId)
+    comment.merge(payload)
+
+    await comment.save()
+    return comment
+  }
 
   /**
-   * Edit individual record
+   * @destroy
+   * @summary Delete comment
+   * @paramPath commentId
+   * @responseBody 204 - noContent
    */
-  async edit({ params }: HttpContext) {}
+  async destroy({ params, response }: HttpContext) {
+    const commentId = params.id
 
-  /**
-   * Handle form submission for the edit action
-   */
-  async update({ params, request }: HttpContext) {}
+    const comment = await Comment.findOrFail(commentId)
+    await comment.delete()
 
-  /**
-   * Delete record
-   */
-  async destroy({ params }: HttpContext) {}
+    return response.noContent()
+  }
 }
