@@ -8,7 +8,7 @@ export default class Comment extends BaseModel {
   declare id: number
 
   @column()
-  declare commentBody: string | null
+  declare content: string
 
   @column()
   declare postId: number

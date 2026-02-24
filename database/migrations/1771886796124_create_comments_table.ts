@@ -14,7 +14,7 @@ export default class extends BaseSchema {
       .onDelete('CASCADE')
       .notNullable()
 
-      table.string('comment_body').nullable()
+      table.text('content').notNullable()
 
       table.timestamp('created_at')
       table.timestamp('updated_at')

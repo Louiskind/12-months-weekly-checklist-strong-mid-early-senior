@@ -8,7 +8,7 @@ export default class Post extends BaseModel {
   declare id: number
 
   @column()
-  declare name: string | null
+  declare title: string
 
   @column.dateTime({ autoCreate: true })
   declare createdAt: DateTime
