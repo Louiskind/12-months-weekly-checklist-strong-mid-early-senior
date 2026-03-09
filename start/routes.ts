@@ -22,6 +22,11 @@ router.get('/', async () => {
   }
 })
 
+router.group(() => {
+  router.post('register', '#controllers/auth_controller.register')
+})
+  .prefix('api/user/')
+
 // router.group(() => {
 //   router.get('/', [UsersController, 'index']) // subpath import
 // })
