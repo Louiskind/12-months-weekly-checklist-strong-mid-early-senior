@@ -9,6 +9,7 @@
 import router from '@adonisjs/core/services/router'
 import AutoSwagger from 'adonis-autoswagger'
 import swagger from '#config/swagger'
+import { middleware } from './kernel.js'
 
 const UsersController = () => import('#controllers/users_controller')
 // const RegisterNewsletterSubscriptionController = () => import('#controllers/register_newsletter_subscriptions_controller')
@@ -24,6 +25,7 @@ router.get('/', async () => {
 
 router.group(() => {
   router.post('register', '#controllers/auth_controller.register')
+  router.post('login', '#controllers/auth_controller.login')
 })
   .prefix('api/user/')
 
@@ -48,6 +50,7 @@ router.group(() => {
   router.resource('posts', PostsController).only(['index', 'store', 'update', 'destroy']) // register only specific routes
 
 })
+.use(middleware.auth())
 
 router.resource('comments', CommentsController).apiOnly()
 // router.shallowResource('posts.comments', CommentsController) // Shallow routes, cuts off the parents prefixes
