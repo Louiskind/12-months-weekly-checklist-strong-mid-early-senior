@@ -131,3 +131,43 @@
 {"level":30,"time":1771960874567,"pid":12852,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
 {"level":30,"time":1771960881967,"pid":19816,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
 {"level":30,"time":1771961655580,"pid":19816,"hostname":"DESKTOP-FKJ7UGT","request_id":"rf2jnvugd6w4j4t5udxhrcav","msg":"GET: /users"}
+{"level":30,"time":1772995891332,"pid":2008,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1773088802534,"pid":18740,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1773088805294,"pid":18740,"hostname":"DESKTOP-FKJ7UGT","request_id":"dhwovvo30939pnaoj7i3d0ka","msg":"GET: /"}
+{"level":30,"time":1773088812687,"pid":18740,"hostname":"DESKTOP-FKJ7UGT","request_id":"qvktw9gx9mmo772zs5mxwytm","msg":"GET: /docs"}
+{"level":30,"time":1773088812870,"pid":18740,"hostname":"DESKTOP-FKJ7UGT","request_id":"n70l1fd80cclvkb80eoeorh8","msg":"GET: /swagger"}
+{"level":30,"time":1773088826321,"pid":18740,"hostname":"DESKTOP-FKJ7UGT","request_id":"a8ij65xrf1eetccwkqrkcg8y","msg":"POST: /api/user/register"}
+{"level":50,"time":1773088826835,"pid":18740,"hostname":"DESKTOP-FKJ7UGT","request_id":"a8ij65xrf1eetccwkqrkcg8y","err":{"type":"DatabaseError","message":"select \"user-name\" from \"users\" where \"user-name\" = $1 limit $2 - column \"user-name\" does not exist","stack":"error: select \"user-name\" from \"users\" where \"user-name\" = $1 limit $2 - column \"user-name\" does not exist\n    at parseErrorMessage (C:\\Users\\LOUIS KIND\\code\\learn-adonisjs\\12-months-plan\\node_modules\\pg-protocol\\src\\parser.ts:394:9)\n    at Parser.handlePacket (C:\\Users\\LOUIS KIND\\code\\learn-adonisjs\\12-months-plan\\node_modules\\pg-protocol\\src\\parser.ts:212:19)\n    at Parser.parse (C:\\Users\\LOUIS KIND\\code\\learn-adonisjs\\12-months-plan\\node_modules\\pg-protocol\\src\\parser.ts:105:30)\n    at Socket.<anonymous> (C:\\Users\\LOUIS KIND\\code\\learn-adonisjs\\12-months-plan\\node_modules\\pg-protocol\\src\\index.ts:7:48)\n    at Socket.emit (node:events:519:28)\n    at addChunk (node:internal/streams/readable:559:12)\n    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)\n    at Readable.push (node:internal/streams/readable:390:5)\n    at TCP.onStreamRead (node:internal/stream_base_commons:191:23)","length":170,"name":"error","severity":"ERROR","code":"42703","hint":"Perhaps you meant to reference the column \"users.user_name\".","position":"8","file":"parse_relation.c","line":"3838","routine":"errorMissingColumn","status":500},"x-request-id":"a8ij65xrf1eetccwkqrkcg8y","msg":"select \"user-name\" from \"users\" where \"user-name\" = $1 limit $2 - column \"user-name\" does not exist"}
+{"level":30,"time":1773088952567,"pid":9412,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1773088960937,"pid":9412,"hostname":"DESKTOP-FKJ7UGT","request_id":"fs27iqptw68evsue4qig9vwz","msg":"GET: /docs"}
+{"level":30,"time":1773088961104,"pid":9412,"hostname":"DESKTOP-FKJ7UGT","request_id":"g8l4o5jt1hwnaixbzffsvylj","msg":"GET: /swagger"}
+{"level":30,"time":1773088969544,"pid":9412,"hostname":"DESKTOP-FKJ7UGT","request_id":"s7j0qp9rnc2xkjo87158xtqd","msg":"POST: /api/user/register"}
+{"level":30,"time":1773778432747,"pid":33168,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:63432"}
+{"level":30,"time":1773778537477,"pid":26332,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1773778540079,"pid":26332,"hostname":"DESKTOP-FKJ7UGT","request_id":"oa9gyddbqghfu57w90dcce7h","msg":"GET: /"}
+{"level":30,"time":1773778546745,"pid":26332,"hostname":"DESKTOP-FKJ7UGT","request_id":"yi3lbq78r29vng420pm8h1ry","msg":"GET: /"}
+{"level":30,"time":1773778564969,"pid":26332,"hostname":"DESKTOP-FKJ7UGT","request_id":"s8v81nlwgzcfsegmpbxw1n6s","msg":"GET: /docs"}
+{"level":30,"time":1773778565220,"pid":26332,"hostname":"DESKTOP-FKJ7UGT","request_id":"brj0kpbqemfb7wl15xgufqfg","msg":"GET: /swagger"}
+{"level":30,"time":1773778603009,"pid":14304,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1773778651505,"pid":20832,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1773778665173,"pid":24008,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1773778738417,"pid":33608,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1773778745223,"pid":32600,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1773778747117,"pid":32600,"hostname":"DESKTOP-FKJ7UGT","request_id":"bmjk25bsebqgga56fing0az4","msg":"GET: /docs"}
+{"level":30,"time":1773778747337,"pid":32600,"hostname":"DESKTOP-FKJ7UGT","request_id":"nxaw27thx7g3dtin7ouue8vk","msg":"GET: /swagger"}
+{"level":30,"time":1773778823436,"pid":32600,"hostname":"DESKTOP-FKJ7UGT","request_id":"ay0owng0mag62rr4d6dsljq2","msg":"POST: /api/user/login"}
+{"level":30,"time":1773778872580,"pid":2276,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1773778877139,"pid":16736,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1773778900943,"pid":19980,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1773778901157,"pid":19980,"hostname":"DESKTOP-FKJ7UGT","request_id":"fs2t3tgfshdd41hmsthn34f0","msg":"GET: /docs"}
+{"level":30,"time":1773778901381,"pid":19980,"hostname":"DESKTOP-FKJ7UGT","request_id":"jx8tpfxnixdo9225va4wbqsb","msg":"GET: /swagger"}
+{"level":30,"time":1773778966540,"pid":19980,"hostname":"DESKTOP-FKJ7UGT","request_id":"olnijfed2stlkr48osh2guuq","msg":"POST: /api/user/login"}
+{"level":30,"time":1773778990504,"pid":19980,"hostname":"DESKTOP-FKJ7UGT","request_id":"wif90fmhqfy2xf4ui21zi3jf","msg":"POST: /api/user/login"}
+{"level":30,"time":1773779152825,"pid":9704,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1773779162024,"pid":33788,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1773779173991,"pid":8164,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1773779177706,"pid":8164,"hostname":"DESKTOP-FKJ7UGT","request_id":"fly81uechub9k6yb97nhqqbl","msg":"GET: /docs"}
+{"level":30,"time":1773779177872,"pid":8164,"hostname":"DESKTOP-FKJ7UGT","request_id":"vh0jlmgbx2l8tryrp3ri89ie","msg":"GET: /swagger"}
+{"level":30,"time":1773779207429,"pid":8164,"hostname":"DESKTOP-FKJ7UGT","request_id":"jbzdeeboi0seq6bqplxfwg57","msg":"GET: /posts"}
+{"level":30,"time":1773779219697,"pid":8164,"hostname":"DESKTOP-FKJ7UGT","request_id":"c1nytd4hggmvs4c1c1mjd4q1","msg":"GET: /posts"}
+{"level":30,"time":1773779232735,"pid":8164,"hostname":"DESKTOP-FKJ7UGT","request_id":"vzjj92o6ghw20vb24dupqth7","msg":"POST: /posts"}

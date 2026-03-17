@@ -14,6 +14,7 @@
     "typecheck": "tsc --noEmit"
   },
   "imports": {
+    "#auth/guards/*": "./app/auth/guards/*.js",
     "#controllers/*": "./app/controllers/*.js",
     "#exceptions/*": "./app/exceptions/*.js",
     "#models/*": "./app/models/*.js",
@@ -51,12 +52,14 @@
     "typescript": "~5.8"
   },
   "dependencies": {
-    "@adonisjs/auth": "^9.4.0",
+    "@adonisjs/auth": "^9.6.0",
     "@adonisjs/core": "^6.18.0",
     "@adonisjs/cors": "^2.2.1",
     "@adonisjs/lucid": "^21.6.1",
+    "@types/jsonwebtoken": "^9.0.10",
     "@vinejs/vine": "^3.0.1",
     "adonis-autoswagger": "^3.73.0",
+    "jsonwebtoken": "^9.0.3",
     "luxon": "^3.7.2",
     "pg": "^8.17.2",
     "reflect-metadata": "^0.2.2"
