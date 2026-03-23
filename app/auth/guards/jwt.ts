@@ -1,7 +1,9 @@
+import RefreshToken from '#models/refresh_token'
 import { errors, symbols } from '@adonisjs/auth'
 import type { AuthClientResponse, GuardContract } from '@adonisjs/auth/types'
 import type { HttpContext } from '@adonisjs/core/http'
 import jwt from 'jsonwebtoken'
+import { DateTime } from 'luxon'
 
 /**
  * Bridge between the user provider and the guard.
@@ -38,9 +40,9 @@ export interface JwtUserProviderContract<RealUser> {
   findById(identifier: string | number | BigInt): Promise<JwtGuardUser<RealUser> | null>
 }
 
-export class JwtGuard<
-  UserProvider extends JwtUserProviderContract<unknown>,
-> implements GuardContract<UserProvider[typeof symbols.PROVIDER_REAL_USER]> {
+export class JwtGuard<UserProvider extends JwtUserProviderContract<unknown>> implements GuardContract<
+  UserProvider[typeof symbols.PROVIDER_REAL_USER]
+> {
   #ctx: HttpContext
   #userProvider: UserProvider
   #options: JwtGuardOptions
@@ -78,12 +80,39 @@ export class JwtGuard<
 
   async generate(user: UserProvider[typeof symbols.PROVIDER_REAL_USER]) {
     const providerUser = await this.#userProvider.createUserForGuard(user)
-    const token = jwt.sign({ userId: providerUser.getId() }, this.#options.secret)
+
+    const token = jwt.sign(
+      { userId: providerUser.getId() },
+      this.#options.secret,
+      { expiresIn: '15m' } // short-lived
+    )
 
     return {
       type: 'bearer',
       token: token,
     }
+  }
+
+  // Extending custom adonisjs 6 auth implementations with refresh token
+  async generateTokens(user: UserProvider[typeof symbols.PROVIDER_REAL_USER]) {
+    const providerUser = await this.#userProvider.createUserForGuard(user)
+
+    const accessToken = jwt.sign({ userId: providerUser.getId() }, this.#options.secret, {
+      expiresIn: '15m',
+    })
+
+    const refreshToken = jwt.sign({ userId: providerUser.getId() }, this.#options.secret, {
+      expiresIn: '7d',
+    })
+
+    await RefreshToken.create({
+      userId: Number(providerUser.getId()), // force to number
+      token: refreshToken,
+      expiresAt: DateTime.now().plus({ days: 7 }),
+    })
+
+
+    return { accessToken, refreshToken }
   }
 
   async authenticate(): Promise<UserProvider[typeof symbols.PROVIDER_REAL_USER]> {
