@@ -1,19 +1,17 @@
 import { UserService } from '#services/user_service'
-import { createUserValidator, updateUserValidator } from '#validators/user'
+import { createUserValidator, updateUserValidator } from '#validators/create_user'
 import { inject } from '@adonisjs/core'
 import type { HttpContext } from '@adonisjs/core/http'
 
 @inject()
 export default class UsersController {
-  constructor(
-    protected userService: UserService
-  ) {}
+  constructor(protected userService: UserService) {}
 
   /**
    * @store
-   * @description Create user
-   * @requestBody {"username":"Lorem", "email":"lorem@gmail.com", "password":"123"}
-   *  
+   * @summary Create user
+   * @requestBody <createUserValidator>
+   *
    */
   public async store({ request, response }: HttpContext) {
     const payload = await request.validateUsing(createUserValidator)
@@ -26,7 +24,7 @@ export default class UsersController {
       console.error(`UsersController, Failed to create user: ${error}`)
 
       return response.internalServerError({
-        message: error.message
+        message: error.message,
       })
     }
   }
@@ -38,9 +36,9 @@ export default class UsersController {
       return response.ok(users)
     } catch (error) {
       console.error('UsersController, Failed to fetch users: ', error)
-      
+
       return response.internalServerError({
-        message: error.message
+        message: error.message,
       })
     }
   }
@@ -56,7 +54,7 @@ export default class UsersController {
       console.error(`UsersController, Failed to find user with id ${userId}: ${error}`)
 
       return response.notFound({
-        message: error.message
+        message: error.message,
       })
     }
   }
@@ -73,7 +71,7 @@ export default class UsersController {
       console.error(`UsersController, Failed to update user with id: ${userId}: ${error}`)
 
       return response.notFound({
-        message: error.message
+        message: error.message,
       })
     }
   }
@@ -89,7 +87,7 @@ export default class UsersController {
       console.error(`UsersController, Failed to delete user with id: ${userId}: ${error}`)
 
       return response.notFound({
-        message: error.message
+        message: error.message,
       })
     }
   }
