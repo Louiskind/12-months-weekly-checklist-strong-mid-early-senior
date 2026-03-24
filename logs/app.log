@@ -353,3 +353,202 @@
 {"level":30,"time":1774296204339,"pid":10476,"hostname":"DESKTOP-FKJ7UGT","request_id":"j8750ompi180v91cik7xaccn","msg":"GET: /swagger"}
 {"level":30,"time":1774296231611,"pid":19936,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
 {"level":30,"time":1774296246079,"pid":19868,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774296451242,"pid":4064,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774377907412,"pid":17420,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774377914199,"pid":17420,"hostname":"DESKTOP-FKJ7UGT","request_id":"irb51ngfh6r12opkwip6ysbh","msg":"GET: /"}
+{"level":30,"time":1774377930735,"pid":17420,"hostname":"DESKTOP-FKJ7UGT","request_id":"ylqlxb6kk52qy36w2ytcl4lw","msg":"GET: /docs"}
+{"level":30,"time":1774377932902,"pid":17420,"hostname":"DESKTOP-FKJ7UGT","request_id":"i4935r2kg5b0bwp5o5bwzo8t","msg":"GET: /swagger"}
+{"level":30,"time":1774377969090,"pid":24360,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774377969479,"pid":24360,"hostname":"DESKTOP-FKJ7UGT","request_id":"hqi3cuynt02fdshh5oyi61j2","msg":"GET: /docs"}
+{"level":30,"time":1774377969633,"pid":24360,"hostname":"DESKTOP-FKJ7UGT","request_id":"svlw5ds5xbu2i56rk497txzo","msg":"GET: /swagger"}
+{"level":30,"time":1774377991697,"pid":16672,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774378006789,"pid":16668,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774378013224,"pid":18052,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774378013302,"pid":18052,"hostname":"DESKTOP-FKJ7UGT","request_id":"stapicwtj8vprlaqaitlxd9a","msg":"GET: /docs"}
+{"level":30,"time":1774378013405,"pid":18052,"hostname":"DESKTOP-FKJ7UGT","request_id":"ciwkmbq0jfa3rg7gdnsccd2r","msg":"GET: /swagger"}
+{"level":30,"time":1774378037470,"pid":12336,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774378379555,"pid":19008,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774378391553,"pid":19008,"hostname":"DESKTOP-FKJ7UGT","request_id":"w1jbumqj7c5u1escsaoce1ts","msg":"GET: /docs"}
+{"level":30,"time":1774378391678,"pid":19008,"hostname":"DESKTOP-FKJ7UGT","request_id":"q73bw5r0fk540mhl48ah5g85","msg":"GET: /swagger"}
+{"level":30,"time":1774378412739,"pid":25396,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774378412969,"pid":25396,"hostname":"DESKTOP-FKJ7UGT","request_id":"uqtrprtj7jm1rne5n7ipbhpe","msg":"GET: /docs"}
+{"level":30,"time":1774378413073,"pid":25396,"hostname":"DESKTOP-FKJ7UGT","request_id":"b7mgiot3hropb1q1ntxag131","msg":"GET: /swagger"}
+{"level":30,"time":1774378445248,"pid":16200,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774379043906,"pid":8068,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774379070477,"pid":22160,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774379070728,"pid":22160,"hostname":"DESKTOP-FKJ7UGT","request_id":"otgqc3vxy3u6asx16tgj2k1a","msg":"GET: /docs"}
+{"level":30,"time":1774379070879,"pid":22160,"hostname":"DESKTOP-FKJ7UGT","request_id":"yjve6tgavuo7tmmspa5kpljt","msg":"GET: /swagger"}
+{"level":30,"time":1774379795425,"pid":19068,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774379802812,"pid":16784,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774379807742,"pid":17388,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774379814441,"pid":17388,"hostname":"DESKTOP-FKJ7UGT","request_id":"errk9o5endto0tl0apzvqzv2","msg":"GET: /docs"}
+{"level":30,"time":1774379814610,"pid":17388,"hostname":"DESKTOP-FKJ7UGT","request_id":"ark20b19s8z09hmf6aw74d7y","msg":"GET: /swagger"}
+{"level":30,"time":1774379982658,"pid":3048,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774379996123,"pid":16672,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774380001152,"pid":16672,"hostname":"DESKTOP-FKJ7UGT","request_id":"gfizfy4fr4k08g75nj4bu2vw","msg":"GET: /docs"}
+{"level":30,"time":1774380001342,"pid":16672,"hostname":"DESKTOP-FKJ7UGT","request_id":"kjqka6dpdob5vp75fviw3ftw","msg":"GET: /swagger"}
+{"level":30,"time":1774380150078,"pid":5956,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774380174260,"pid":19496,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774380185210,"pid":23376,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774380200938,"pid":20728,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774380203749,"pid":20728,"hostname":"DESKTOP-FKJ7UGT","request_id":"q9dju9h7jyh5vwf5v11dwd1k","msg":"GET: /docs"}
+{"level":30,"time":1774380203914,"pid":20728,"hostname":"DESKTOP-FKJ7UGT","request_id":"sasrssl61yz5wgib2a83wi9b","msg":"GET: /swagger"}
+{"level":30,"time":1774380463136,"pid":280,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774380469756,"pid":18860,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774380475194,"pid":17060,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774380486869,"pid":24988,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774380487659,"pid":24988,"hostname":"DESKTOP-FKJ7UGT","request_id":"wrrfhqzx6kypmlw34vq0iuhl","msg":"GET: /docs"}
+{"level":30,"time":1774380487978,"pid":24988,"hostname":"DESKTOP-FKJ7UGT","request_id":"h2j9iu79sne0hxcx6kq5goi8","msg":"GET: /swagger"}
+{"level":30,"time":1774380763400,"pid":24988,"hostname":"DESKTOP-FKJ7UGT","request_id":"cid3um2zmjd2qdfh72zgcoe0","msg":"POST: /api/auth/register"}
+{"level":50,"time":1774380763439,"pid":24988,"hostname":"DESKTOP-FKJ7UGT","request_id":"cid3um2zmjd2qdfh72zgcoe0","err":{"type":"RuntimeException","message":"Cannot construct \"[class AuthController]\" class. Container is not able to resolve its dependencies. Did you forget to use @inject() decorator?","stack":"RuntimeException: Cannot construct \"[class AuthController]\" class. Container is not able to resolve its dependencies. Did you forget to use @inject() decorator?\n    at createError (file:///C:/Users/LOUIS%20KIND/code/learn-adonisjs/12-months-plan/node_modules/@adonisjs/fold/build/chunk-NNIB6TMY.js:294:79)\n    at #missingDependenciesException (file:///C:/Users/LOUIS%20KIND/code/learn-adonisjs/12-months-plan/node_modules/@adonisjs/fold/build/chunk-NNIB6TMY.js:236:12)\n    at ContainerResolver.resolveFor (file:///C:/Users/LOUIS%20KIND/code/learn-adonisjs/12-months-plan/node_modules/@adonisjs/fold/build/chunk-NNIB6TMY.js:365:49)","name":"RuntimeException","status":500,"code":"E_RUNTIME_EXCEPTION"},"x-request-id":"cid3um2zmjd2qdfh72zgcoe0","msg":"Cannot construct \"[class AuthController]\" class. Container is not able to resolve its dependencies. Did you forget to use @inject() decorator?"}
+{"level":30,"time":1774380805087,"pid":408,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774380831990,"pid":12640,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774380841608,"pid":10664,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774380850583,"pid":10664,"hostname":"DESKTOP-FKJ7UGT","request_id":"j7i2xr5qalk53p0wlcrq11ac","msg":"GET: /docs"}
+{"level":30,"time":1774380850730,"pid":10664,"hostname":"DESKTOP-FKJ7UGT","request_id":"xuyj6ian9rtltzekbhll4xq2","msg":"GET: /swagger"}
+{"level":30,"time":1774380881330,"pid":10664,"hostname":"DESKTOP-FKJ7UGT","request_id":"o3tm6bsmnnsa95p3ngubhq9u","msg":"POST: /api/auth/register"}
+{"level":50,"time":1774380881380,"pid":10664,"hostname":"DESKTOP-FKJ7UGT","request_id":"o3tm6bsmnnsa95p3ngubhq9u","err":{"type":"RuntimeException","message":"Cannot inject \"[Function: Object]\" in \"[class AuthController]\"","stack":"Error\n    at inject (file:///C:/Users/LOUIS%20KIND/code/learn-adonisjs/12-months-plan/node_modules/@adonisjs/fold/build/chunk-NNIB6TMY.js:727:44)\n    at <anonymous> (C:\\Users\\LOUIS KIND\\code\\learn-adonisjs\\12-months-plan\\app\\controllers\\auth_controller.ts:99:1)\n    at ModuleJob.run (node:internal/modules/esm/module_job:234:25)\n    at async ModuleLoader.import (node:internal/modules/esm/loader:473:24)\n    at async importDefault (file:///C:/Users/LOUIS%20KIND/code/learn-adonisjs/12-months-plan/node_modules/@adonisjs/fold/node_modules/@poppinss/utils/build/index.js:57:24)\n    at async Object.handle (file:///C:/Users/LOUIS%20KIND/code/learn-adonisjs/12-months-plan/node_modules/@adonisjs/fold/build/chunk-NNIB6TMY.js:925:29)\n    at async MaintenanceMiddleware.handle (C:\\Users\\LOUIS KIND\\code\\learn-adonisjs\\12-months-plan\\app\\middleware\\maintenance_middleware.ts:13:20)\n    at async LogRequestMiddleware.handle (C:\\Users\\LOUIS KIND\\code\\learn-adonisjs\\12-months-plan\\app\\middleware\\log_request_middleware.ts:9:20)","name":"RuntimeException","status":500,"code":"E_RUNTIME_EXCEPTION","help":"The value is not a valid class"},"x-request-id":"o3tm6bsmnnsa95p3ngubhq9u","msg":"Cannot inject \"[Function: Object]\" in \"[class AuthController]\""}
+{"level":30,"time":1774381124484,"pid":12608,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774381163610,"pid":20784,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774381171658,"pid":23360,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774381179806,"pid":16544,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774381203667,"pid":25556,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774381451428,"pid":22984,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774381540416,"pid":20552,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774381561633,"pid":23992,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774381589048,"pid":13140,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774381596777,"pid":8892,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774381608185,"pid":6056,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774381624849,"pid":25388,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774381679825,"pid":21696,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774381717911,"pid":2288,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774381731455,"pid":16812,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774381745711,"pid":3620,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774381984626,"pid":18184,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774382145979,"pid":8160,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774382166386,"pid":17316,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774382360150,"pid":22632,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774382392432,"pid":22632,"hostname":"DESKTOP-FKJ7UGT","request_id":"h3sy5fpw5gsk1qg95lc8xl40","msg":"GET: /docs"}
+{"level":30,"time":1774382392607,"pid":22632,"hostname":"DESKTOP-FKJ7UGT","request_id":"qrthepdzuvtjd2fastr3iwq4","msg":"GET: /swagger"}
+{"level":30,"time":1774382405796,"pid":22632,"hostname":"DESKTOP-FKJ7UGT","request_id":"ii89imab2mrdwd60jf5910gf","msg":"POST: /api/auth/register"}
+{"level":30,"time":1774382442430,"pid":4236,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774382457351,"pid":24700,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774382488759,"pid":5500,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774382497772,"pid":5500,"hostname":"DESKTOP-FKJ7UGT","request_id":"kg9geh3qfiyeo4kbip7izgyl","msg":"GET: /docs"}
+{"level":30,"time":1774382497941,"pid":5500,"hostname":"DESKTOP-FKJ7UGT","request_id":"bbbki82ezoogl469yyhtcr9e","msg":"GET: /swagger"}
+{"level":30,"time":1774382537299,"pid":5500,"hostname":"DESKTOP-FKJ7UGT","request_id":"ocncfezi1w4v97q9qz8l4k89","msg":"POST: /api/auth/login"}
+{"level":30,"time":1774382553902,"pid":5500,"hostname":"DESKTOP-FKJ7UGT","request_id":"vxvz7ubhjyiy3sjjvx7e5czw","msg":"POST: /api/auth/login"}
+{"level":30,"time":1774382571751,"pid":5500,"hostname":"DESKTOP-FKJ7UGT","request_id":"rqyiok36fk6c477zpi7yj504","msg":"POST: /api/auth/login"}
+{"level":30,"time":1774382579644,"pid":5500,"hostname":"DESKTOP-FKJ7UGT","request_id":"e4jc7m2u535jkuod3c66ohyz","msg":"POST: /api/auth/login"}
+{"level":30,"time":1774382638711,"pid":5500,"hostname":"DESKTOP-FKJ7UGT","request_id":"osi2n7jnbh55pkir42621pyg","msg":"POST: /api/auth/register"}
+{"level":30,"time":1774382650289,"pid":5500,"hostname":"DESKTOP-FKJ7UGT","request_id":"lf0j7bleio65ia74h3i0f3sz","msg":"POST: /api/auth/register"}
+{"level":30,"time":1774382660299,"pid":5500,"hostname":"DESKTOP-FKJ7UGT","request_id":"szzmd96q6lnr6hsmif64j80f","msg":"POST: /api/auth/register"}
+{"level":30,"time":1774382678751,"pid":5500,"hostname":"DESKTOP-FKJ7UGT","request_id":"piuv94m2sh63u6bwtm1xk44r","msg":"POST: /api/auth/register"}
+{"level":30,"time":1774382711848,"pid":5500,"hostname":"DESKTOP-FKJ7UGT","request_id":"zqqtacl7tbvrul2yftv1typd","msg":"GET: /docs"}
+{"level":30,"time":1774382711990,"pid":5500,"hostname":"DESKTOP-FKJ7UGT","request_id":"zdvgf1ik7drpmut7zgsa2ux7","msg":"GET: /swagger"}
+{"level":30,"time":1774382728985,"pid":5500,"hostname":"DESKTOP-FKJ7UGT","request_id":"xqyoyfk9kl9fkyvxprkvncoo","msg":"POST: /api/auth/login"}
+{"level":30,"time":1774382754480,"pid":13668,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774382917134,"pid":13668,"hostname":"DESKTOP-FKJ7UGT","request_id":"hnne85t9kb8r00n1se3cqzgx","msg":"POST: /api/auth/login"}
+{"level":30,"time":1774383063351,"pid":13668,"hostname":"DESKTOP-FKJ7UGT","request_id":"bcio84yr0zikebh8rehvdsgw","msg":"POST: /api/auth/register"}
+{"level":30,"time":1774383076398,"pid":13668,"hostname":"DESKTOP-FKJ7UGT","request_id":"ceie7m4g5cxyuc04s53k4orl","msg":"POST: /api/auth/login"}
+{"level":30,"time":1774383098184,"pid":13668,"hostname":"DESKTOP-FKJ7UGT","request_id":"lhmt8wutpo3vokjpb3zgnd7t","msg":"POST: /api/auth/login"}
+{"level":30,"time":1774383483057,"pid":17084,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774383914747,"pid":2748,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774383925887,"pid":17308,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774383943823,"pid":12760,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774383961257,"pid":18680,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774383977765,"pid":6416,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774384003167,"pid":6416,"hostname":"DESKTOP-FKJ7UGT","request_id":"ahf2l2mpflfh9lf0pnp0qeff","msg":"GET: /docs"}
+{"level":30,"time":1774384003729,"pid":6416,"hostname":"DESKTOP-FKJ7UGT","request_id":"e0u3d74iyf2ibx6jceneroyq","msg":"GET: /swagger"}
+{"level":30,"time":1774384029221,"pid":6416,"hostname":"DESKTOP-FKJ7UGT","request_id":"p7ti9ppi7h7n6ynq43rm62kn","msg":"POST: /api/auth/register"}
+{"level":30,"time":1774384050623,"pid":6416,"hostname":"DESKTOP-FKJ7UGT","request_id":"hk8mejzk1z2odobq9zpiym5p","msg":"POST: /api/auth/login"}
+{"level":30,"time":1774384079847,"pid":23048,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774384080165,"pid":23048,"hostname":"DESKTOP-FKJ7UGT","request_id":"q719i1vk8qczx7g6x8inv1gz","msg":"POST: /api/auth/login"}
+{"level":30,"time":1774384105035,"pid":23048,"hostname":"DESKTOP-FKJ7UGT","request_id":"yb5fnz64ovmp7sbu6a1z1h99","msg":"POST: /api/auth/register"}
+{"level":30,"time":1774384114697,"pid":23048,"hostname":"DESKTOP-FKJ7UGT","request_id":"w7quuyvhihv9mg35af0uzvl2","msg":"POST: /api/auth/login"}
+{"level":30,"time":1774384147439,"pid":2884,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774384152032,"pid":21032,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774384169592,"pid":21032,"hostname":"DESKTOP-FKJ7UGT","request_id":"hjovrsliawgjzccablp0yvaz","msg":"POST: /api/auth/register"}
+{"level":30,"time":1774384179065,"pid":21032,"hostname":"DESKTOP-FKJ7UGT","request_id":"qsbbl3uddz1ob9zabrx9715x","msg":"POST: /api/auth/login"}
+{"level":30,"time":1774384191026,"pid":7480,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774384200249,"pid":6972,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774384222450,"pid":6972,"hostname":"DESKTOP-FKJ7UGT","request_id":"awsy7fykn1o9krk386yj0y51","msg":"POST: /api/auth/register"}
+{"level":30,"time":1774384232497,"pid":6972,"hostname":"DESKTOP-FKJ7UGT","request_id":"u1apgi6etv6xxlutict6lee5","msg":"POST: /api/auth/login"}
+{"level":30,"time":1774384574819,"pid":10104,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774384611065,"pid":6056,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774384622876,"pid":6056,"hostname":"DESKTOP-FKJ7UGT","request_id":"rdmnzw1mt4kusx2z7l1h5w5c","msg":"POST: /api/auth/login"}
+{"level":30,"time":1774384795485,"pid":11472,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774384801866,"pid":11472,"hostname":"DESKTOP-FKJ7UGT","request_id":"hr9nfvnpf65xl3d0y6sqt2gs","msg":"POST: /api/auth/register"}
+{"level":30,"time":1774384826175,"pid":11472,"hostname":"DESKTOP-FKJ7UGT","request_id":"myfpkba40w1al1sd1k1io04j","msg":"POST: /api/auth/login"}
+{"level":30,"time":1774385043680,"pid":17632,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774385051975,"pid":1612,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774385061329,"pid":3228,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774385065739,"pid":12756,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774385148821,"pid":21968,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774385159847,"pid":5796,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774385164746,"pid":20796,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774385182831,"pid":23412,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774385203746,"pid":24716,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774385216446,"pid":10380,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774385222577,"pid":20528,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774385231021,"pid":5028,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774385253554,"pid":22948,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774385262673,"pid":1716,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774385271673,"pid":22036,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774385305247,"pid":22036,"hostname":"DESKTOP-FKJ7UGT","request_id":"l6cjci4hcok0e6p5kdi23tcd","msg":"POST: /api/auth/register"}
+{"level":30,"time":1774385348792,"pid":22036,"hostname":"DESKTOP-FKJ7UGT","request_id":"qehzqnkw0rkw4x6sbh1a0ts7","msg":"POST: /api/auth/login"}
+{"level":30,"time":1774385425349,"pid":22036,"hostname":"DESKTOP-FKJ7UGT","request_id":"me4yvkab7famnr8nrrr1vodf","msg":"POST: /api/auth/login"}
+{"level":30,"time":1774385539617,"pid":20528,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774385548799,"pid":20060,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774385557234,"pid":6900,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774385569499,"pid":21576,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774385590101,"pid":14348,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774385604970,"pid":10244,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774385609551,"pid":23660,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774385644528,"pid":23156,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774385687835,"pid":23156,"hostname":"DESKTOP-FKJ7UGT","request_id":"qlpjt3v2u334exe0yl8eqvit","msg":"GET: /docs"}
+{"level":30,"time":1774385687983,"pid":23156,"hostname":"DESKTOP-FKJ7UGT","request_id":"kg7k70yvbnev84sm3swludfo","msg":"GET: /swagger"}
+{"level":30,"time":1774385702340,"pid":23156,"hostname":"DESKTOP-FKJ7UGT","request_id":"tnpkpa48vefo4d26ymsnrafo","msg":"POST: /api/auth/register"}
+{"level":30,"time":1774385725204,"pid":23156,"hostname":"DESKTOP-FKJ7UGT","request_id":"uto3vr67kyaym9gqys5ikvmx","msg":"POST: /api/auth/login"}
+{"level":30,"time":1774385788270,"pid":15684,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774385794856,"pid":9764,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774385811042,"pid":9764,"hostname":"DESKTOP-FKJ7UGT","request_id":"zfsi57hv7g4189awj0l3lag2","msg":"GET: /docs"}
+{"level":30,"time":1774385811192,"pid":9764,"hostname":"DESKTOP-FKJ7UGT","request_id":"m0sv12w9bqdyz0d5udop0yy4","msg":"GET: /swagger"}
+{"level":30,"time":1774385831414,"pid":9764,"hostname":"DESKTOP-FKJ7UGT","request_id":"jtl8sle6awghqv0v4qg8hco4","msg":"POST: /api/auth/register"}
+{"level":30,"time":1774385855301,"pid":9764,"hostname":"DESKTOP-FKJ7UGT","request_id":"jcrk2un1hiniwkj6qcl99muk","msg":"POST: /api/auth/login"}
+{"level":30,"time":1774385949573,"pid":20696,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774385964183,"pid":24316,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774385981232,"pid":16316,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774385983017,"pid":16316,"hostname":"DESKTOP-FKJ7UGT","request_id":"h4utyqc9o66hwynhyjncujci","msg":"GET: /docs"}
+{"level":30,"time":1774385983154,"pid":16316,"hostname":"DESKTOP-FKJ7UGT","request_id":"hxxrrxcfdj3buxnchxggx3gy","msg":"GET: /swagger"}
+{"level":30,"time":1774386008481,"pid":16316,"hostname":"DESKTOP-FKJ7UGT","request_id":"okiemzx9otbtgm9d6tuolh5n","msg":"POST: /api/auth/login"}
+{"level":30,"time":1774386278200,"pid":4000,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774386307835,"pid":5640,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774386384917,"pid":5640,"hostname":"DESKTOP-FKJ7UGT","request_id":"o2kh4zq7orfcpnpf4ucteakl","msg":"POST: /api/auth/refresh"}
+{"level":30,"time":1774386479632,"pid":6720,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774386484235,"pid":20680,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774386517282,"pid":20572,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774386524308,"pid":16656,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774386539039,"pid":21892,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774386559200,"pid":18204,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774386569439,"pid":24976,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774386594720,"pid":23320,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774386605453,"pid":6924,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774386616023,"pid":22988,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774386626877,"pid":22096,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774386639855,"pid":22096,"hostname":"DESKTOP-FKJ7UGT","request_id":"hv2lihmowf2u4idbrx3t34vl","msg":"GET: /docs"}
+{"level":30,"time":1774386640002,"pid":22096,"hostname":"DESKTOP-FKJ7UGT","request_id":"wdo1vqff1c40l0q6jq2f8y1v","msg":"GET: /swagger"}
+{"level":30,"time":1774386654168,"pid":22096,"hostname":"DESKTOP-FKJ7UGT","request_id":"fcj4dgsyckn3hfgdxvr5rm3v","msg":"POST: /api/auth/refresh"}
+{"level":30,"time":1774386689685,"pid":22864,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774386720096,"pid":20584,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774386730465,"pid":15552,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774386736810,"pid":1980,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774386746044,"pid":24312,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774386752459,"pid":19324,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774386780316,"pid":19184,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774386800893,"pid":17160,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774386814204,"pid":17160,"hostname":"DESKTOP-FKJ7UGT","request_id":"v13el0kyihzwqtqt0ce8oq47","msg":"POST: /api/auth/refresh"}
+{"level":30,"time":1774386858474,"pid":17160,"hostname":"DESKTOP-FKJ7UGT","request_id":"t5p6jq1fb209c1tysno88hc1","msg":"POST: /api/auth/refresh"}
+{"level":30,"time":1774386884938,"pid":17160,"hostname":"DESKTOP-FKJ7UGT","request_id":"wz55opul9w4fp827iczhrd9v","msg":"POST: /api/auth/refresh"}
+{"level":30,"time":1774386928833,"pid":20156,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}
+{"level":30,"time":1774386943199,"pid":18212,"hostname":"DESKTOP-FKJ7UGT","msg":"started HTTP server on localhost:3000"}

@@ -148,6 +148,7 @@ export class JwtGuard<UserProvider extends JwtUserProviderContract<unknown>> imp
      * Verify the token and extract the payload
      */
     const payload = jwt.verify(token, this.#options.secret)
+    
     if (typeof payload !== 'object' || !('userId' in payload)) {
       throw new errors.E_UNAUTHORIZED_ACCESS('Unauthorized access', {
         guardDriverName: this.driverName,

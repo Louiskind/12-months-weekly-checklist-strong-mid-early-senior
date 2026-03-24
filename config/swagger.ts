@@ -21,7 +21,7 @@ export default {
     },
   },
   snakeCase: false,
-  debug: false,
+  debug: true,
   ignore: ['/api/swagger', '/api/docs'],
   preferredPutPatch: 'PUT',
   common: {
